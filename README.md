@@ -1,1 +1,1 @@
-Lista de endereços maliciosos para bloqueio no Firewall
+Lista de endereços IPs e redes maliciosas para bloqueio no Firewall.
